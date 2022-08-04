@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>API Pedidos</h1>
+  <h1>Java SOLID</h1>
   <p>
 	  Exemplo de Utilização do SOLID 🤿 ☕ <br>
 	  Desenvolvido com 💙 por Jefferson Cesar de Souza.<br>
